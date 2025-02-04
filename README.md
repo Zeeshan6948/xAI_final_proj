@@ -30,7 +30,7 @@ SVM is used to classify bird species by finding the optimal hyperplane to separa
 - Grid Search CV Optimization | Accuracy = **46.67%**
 
 #### Performance Metrics:
-- **Confusion Matrix** (SVM Images/Confusion Matrix.png)
+- **Confusion Matrix** ![Alt text](SVM Images/Confusion Matrix.png)
 - **F1-Score** (Insert image reference here)
 
 ### 2. Decision Tree
