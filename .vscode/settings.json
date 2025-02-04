@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt", // Or your preferred terminal
+    "python.defaultInterpreterPath": "./venv/bin/python", // Adjust to your environment
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.shellArgs.windows": ["/K", "venv\\Scripts\\activate"], // For Windows
+    "terminal.integrated.profiles.windows": {
+        "Command Prompt": {
+            "path": "C:\\Windows\\System32\\cmd.exe",
+            "args": ["/K", "venv\\Scripts\\activate"]
+        }
+    }
+}
